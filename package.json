@@ -1,0 +1,15 @@
+{
+  "name": "packag.json",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pdjingle"
+  },
+  "author": "karen",
+  "license": "MIT"
+}
